@@ -4,9 +4,9 @@
     "iconName": "Scientia Mors Est.png",
     "terminalID": "GreenBox 0513",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "userId": "thaumiel",
+        "password": "feyre",
+        "userName": "Ino"
     },
     "randomSeed": false,
     "initialHistory": {
