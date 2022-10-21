@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "IICP Intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "GreenBox 0513",
     "defaultUser": {
-        "userId": "user",
+        "userId": "usuário",
         "password": "",
-        "userName": "anonymous"
+        "userName": "anônimo"
     },
     "randomSeed": true,
     "initialHistory": {
