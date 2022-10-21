@@ -8,7 +8,7 @@
         "password": "",
         "userName": "anonymous"
     },
-    "randomSeed": true,
+    "randomSeed": false,
     "initialHistory": {
         "user": [
             "login admin@admin"
