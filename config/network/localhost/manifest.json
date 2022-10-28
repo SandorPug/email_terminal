@@ -2,11 +2,11 @@
     "serverAddress": "localhost",
     "serverName": "IICP Intranet",
     "iconName": "Scientia Mors Est.png",
-    "terminalID": "GreenBox 0513",
+    "terminalID": "GreenBox 1330",
     "defaultUser": {
-        "userId": "thaumiel",
-        "password": "feyre",
-        "userName": "Ino"
+        "userId": "archon",
+        "password": "yuko",
+        "userName": "S, Teodore"
     },
     "randomSeed": false,
     "initialHistory": {
